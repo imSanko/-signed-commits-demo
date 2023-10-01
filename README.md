@@ -1,3 +1,4 @@
-# -signed-commits-demo
-
-# signed commit from windows 11
+#hellp 
+#hi $ gpg --list-secret-key --keyid-format LONG
+#efnefnef
+#signeing nw pls
